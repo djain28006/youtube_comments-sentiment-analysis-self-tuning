@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+torch
+transformers
+numpy
+google-api-python-client
+streamlit
+requests
+pandas

@@ -1,0 +1,22 @@
+# Virtual Environment (Never upload this!)
+venv/
+env/
+.env
+
+# Python Cache (Junk files)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
+
+roberta-goemotions/
+checkpoint-*/
+roberta-goemotions/
+roberta-goemotions-model-new/
